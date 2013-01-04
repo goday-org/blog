@@ -1,4 +1,6 @@
 blog
 ====
 
-www.goday.org
+http://www.goday.org
+
+我的博客文件
